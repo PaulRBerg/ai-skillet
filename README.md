@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This repository has been merged into [agent-toolkit](https://github.com/PaulRBerg/agent-toolkit)
+> (subdirectory `skillet/`) and is archived. All development continues there.
+
 # ai-skillet
 
 `ai-skillet` inspects and maintains catalogs of agent skills.
